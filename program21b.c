@@ -1,3 +1,13 @@
+/*
+============================================================================
+Name : program21b.c
+Author : Sankalp Rai
+Write two programs so that both can communicate by FIFO -Use two way communications.
+
+Date: 9th Sep, 2023.
+============================================================================
+*/
+
 #include<sys/types.h>
 #include<sys/stat.h>
 #include<fcntl.h>
